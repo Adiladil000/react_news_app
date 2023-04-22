@@ -1,21 +1,21 @@
 {
   "expo": {
     "name": "NewsApp",
-    "slug": "blank",
+    "slug": "newsApp",
     "version": "1.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
+    "android": {
+      "package": "com.hesenovadil.newsApp",
+      "version": "1.0.0"
+    },
     "extra": {
       "eas": {
-        "projectId": "a2fc1e01-9609-4962-a914-3cd2682ac51b"
+        "projectId": "f8a9ee63-ded3-4c26-97c0-eea8b7190b26"
       }
-    },
-    "android":{
-      "package":"com.hesenovadil.newsApp",
-      "version":"1.0.0"
     }
   }
 }
